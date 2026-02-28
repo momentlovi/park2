@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="OG обложка МФК ПАРК">
+  <defs>
+    <linearGradient id="og" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11161a"/>
+      <stop offset="50%" stop-color="#294032"/>
+      <stop offset="100%" stop-color="#af9270"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#og)"/>
+  <rect x="72" y="72" width="1056" height="486" rx="26" fill="#0f1418" fill-opacity="0.5" stroke="#d5bb95" stroke-opacity="0.5"/>
+  <text x="130" y="280" fill="#efe3cf" font-family="Arial, sans-serif" font-size="72" letter-spacing="10">МФК ПАРК</text>
+  <text x="130" y="346" fill="#d8c2a0" font-family="Arial, sans-serif" font-size="34" letter-spacing="5">СОЧИ / МИКРОРАЙОН СВЕТЛАНА</text>
+  <text x="130" y="418" fill="#c3cfc2" font-family="Arial, sans-serif" font-size="26" letter-spacing="4">ПРЕМИАЛЬНАЯ КУРОРТНАЯ НЕДВИЖИМОСТЬ</text>
+</svg>

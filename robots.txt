@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ак-парк-сочи.рф/sitemap.xml

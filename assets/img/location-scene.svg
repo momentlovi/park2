@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Плейсхолдер локации">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a2025"/>
+      <stop offset="50%" stop-color="#2e4c3b"/>
+      <stop offset="100%" stop-color="#b19672"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#lg)"/>
+  <circle cx="980" cy="200" r="120" fill="#d8bf97" opacity="0.32"/>
+  <path d="M0 560 C180 520 240 640 420 620 C620 590 700 490 920 520 C1030 535 1110 590 1200 650 L1200 900 L0 900 Z" fill="#0f1418" opacity="0.6"/>
+  <text x="64" y="120" fill="#efe5d5" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">LOCATION PLACEHOLDER</text>
+</svg>
